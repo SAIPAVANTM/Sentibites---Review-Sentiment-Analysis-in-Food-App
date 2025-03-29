@@ -1,16 +1,1 @@
-# sentibites
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Review sentiment analysis for food apps uses advanced natural language processing (NLP) to analyze customer feedback, uncovering key insights about user experiences and satisfaction. By detecting emotions and opinions in reviews, this tool identifies positive, negative, and neutral sentiments related to food quality, delivery speed, and customer service.
